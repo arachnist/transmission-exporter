@@ -1,4 +1,4 @@
-module github.com/metalmatze/transmission-exporter
+module github.com/arachnist/transmission-exporter
 
 go 1.13
 
